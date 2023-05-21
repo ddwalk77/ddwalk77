@@ -2,7 +2,7 @@
 
 ### - 🌱 I’m currently wrapping up my M.S. in Data Analytics, completing coursework at the end of June 2023.
 
-### Check out my repos to see some of my academic work.
+### Check out my repos to see some of my academic work. I'm looking forward to applying my new skills in the work force.
 
 <!--
 **ddwalk77/ddwalk77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
