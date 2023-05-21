@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 My name is Debra Walker, but I go by DeeDee.
+
+## - 🌱 I’m currently wrapping up my M.S. in Data Analytics, completing coursework at the end of June 2023.
+
+## Check out my repos!
 
 <!--
 **ddwalk77/ddwalk77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +15,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
